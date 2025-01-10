@@ -1,0 +1,42 @@
+@media (max-width: 1439px) {
+
+}
+
+@media (max-width: 1200px) {
+.header {
+    .hamburger {
+        border-radius: 50%;
+        background-color: $main-color;
+        width: 41px;
+        height: 41px;
+        padding: 5px 8.27px;
+        cursor: pointer;
+        span {
+            display: block;
+            border: 1.18px solid #fff;
+            width: 24px;
+            height: 0px;
+            margin-top: 6px;
+        }
+    }
+    &__nav {
+        display: none;
+    }
+}
+
+.promo {
+    padding: 17px 13px 80px 10px;
+}
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
